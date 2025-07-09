@@ -18,7 +18,7 @@ Git (to clone the repository)
 
 
 Clone the Repository:
-git clone https://github.com/<Hanzla-Scripts>/LegendsOfValor.git
+git clone https://github.com/Hanzla-Scripts/LegendsOfValor.git
 cd LegendsOfValor
 
 
